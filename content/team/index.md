@@ -9,22 +9,39 @@ draft: false
     align-items: center;
     margin-bottom: 20px;
   }
+  .profile-pic-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px;
+  }
   .profile-pic {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    margin-right: 20px;
   }
   .bio-content {
     flex: 1;
   }
+  .linkedin-icon {
+    font-size: 1.5em;
+    margin-top: 10px;
+    color: #0e76a8; /* LinkedIn blue color */
+  }
 </style>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 ### The Beaucoup AI Team
 We are a team of dedicated professionals passionate about leveraging technology to solve complex problems in the commodity markets.
 
 <div class="team-member">
-  <img src="/images/alice_photo.jpg" alt="Alice Durieux, PhD" class="profile-pic">
+  <div class="profile-pic-container">
+    <img src="/images/alice_photo.jpg" alt="Alice Durieux, PhD" class="profile-pic">
+    <a href="https://www.linkedin.com/in/alice-durieux-43515253/" target="_blank" class="linkedin-icon">
+      <i class="fab fa-linkedin"></i>
+    </a>
+  </div>
   <div class="bio-content">
     <strong>Dr. Alice Durieux, BSc, MPhil, PhD</strong><br>
     <em>Co-founder</em><br>
@@ -33,7 +50,12 @@ We are a team of dedicated professionals passionate about leveraging technology 
 </div>
 
 <div class="team-member">
-  <img src="/images/chris_photo_4.png" alt="Christopher Ren, PhD" class="profile-pic">
+  <div class="profile-pic-container">
+    <img src="/images/chris_photo_4.png" alt="Christopher Ren, PhD" class="profile-pic">
+    <a href="https://www.linkedin.com/in/christopherren/" target="_blank" class="linkedin-icon">
+      <i class="fab fa-linkedin"></i>
+    </a>
+  </div>
   <div class="bio-content">
     <strong>Dr. Christopher Ren, MPhys, MRes, PhD</strong><br>
     <em>Co-founder</em><br>
@@ -42,16 +64,18 @@ We are a team of dedicated professionals passionate about leveraging technology 
 </div>
 
 <div class="team-member">
-  <img src="/images/tom_photo.jpeg" alt="Tom Meyler" class="profile-pic">
+  <div class="profile-pic-container">
+    <img src="/images/tom_photo.jpeg" alt="Tom Meyler" class="profile-pic">
+    <a href="https://www.linkedin.com/in/thomas-meyler-14797065/" target="_blank" class="linkedin-icon">
+      <i class="fab fa-linkedin"></i>
+    </a>
+  </div>
   <div class="bio-content">
     <strong>Tom Meyler</strong><br>
     <em>Co-founder</em><br>
     Tom is a cross commodity trader and quantitative researcher with over a decade of experience in the commodities industry. He has a deep understanding of commodity verticals, including the EU energy complex and global grains and softs from his experience working at various hedge funds and companies such as Citi, Gunvor Group and Freepoint Energy Solutions.
   </div>
 </div>
-
-
-
 
 ### Contact Us
 
