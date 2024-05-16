@@ -38,7 +38,7 @@ We are a team of dedicated professionals passionate about leveraging technology 
 <div class="team-member">
   <div class="profile-pic-container">
     <img src="/images/alice_photo.jpg" alt="Alice Durieux, PhD" class="profile-pic">
-    <a href="https://www.linkedin.com/in/alice-durieux" target="_blank" class="linkedin-icon">
+    <a href="https://www.linkedin.com/in/alice-durieux-43515253/" target="_blank" class="linkedin-icon">
       <i class="fab fa-linkedin"></i>
     </a>
   </div>
@@ -52,7 +52,7 @@ We are a team of dedicated professionals passionate about leveraging technology 
 <div class="team-member">
   <div class="profile-pic-container">
     <img src="/images/chris_photo_4.png" alt="Christopher Ren, PhD" class="profile-pic">
-    <a href="https://www.linkedin.com/in/christopher-ren" target="_blank" class="linkedin-icon">
+    <a href="https://www.linkedin.com/in/christopherren/" target="_blank" class="linkedin-icon">
       <i class="fab fa-linkedin"></i>
     </a>
   </div>
@@ -66,7 +66,7 @@ We are a team of dedicated professionals passionate about leveraging technology 
 <div class="team-member">
   <div class="profile-pic-container">
     <img src="/images/tom_photo.jpeg" alt="Tom Meyler" class="profile-pic">
-    <a href="https://www.linkedin.com/in/tom-meyler" target="_blank" class="linkedin-icon">
+    <a href="https://www.linkedin.com/in/thomas-meyler-14797065/" target="_blank" class="linkedin-icon">
       <i class="fab fa-linkedin"></i>
     </a>
   </div>
