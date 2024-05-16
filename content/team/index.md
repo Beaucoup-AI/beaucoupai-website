@@ -1,5 +1,5 @@
 ---
-title: "About Us"
+title: "Team"
 date: 2024-05-15T00:00:00Z
 draft: false
 ---
@@ -20,18 +20,17 @@ draft: false
   }
 </style>
 
-## About BeaucoupAI
-
-BeaucoupAI is a boutique data science company specializing in the creation of unique signals across the commodity markets using artificial intelligence. Our team has deep expertise in the fields of quantitative financial modeling, geospatial intelligence, and machine learning.
-
-### Our Mission
-
-Our mission is to accelerate and enhance your commodity intelligence workflows, providing actionable insights that drive better decision-making and improved outcomes.
-
-
-### Our Team
-
+### The Beaucoup AI Team
 We are a team of dedicated professionals passionate about leveraging technology to solve complex problems in the commodity markets.
+
+<div class="team-member">
+  <img src="../images/alice_photo.jpg" alt="Alice Durieux, PhD" class="profile-pic">
+  <div class="bio-content">
+    <strong>Alice Durieux, PhD</strong><br>
+    <em>Co-founder</em><br>
+    Alice brings over a decade of experience as a data scientist across diverse industries. She holds a PhD in Neuroscience from King's College London (KCL). Her notable achievements include the development of an end-to-end supply chain analytics solution for deforestation monitoring at Descartes Labs. Most recently she has focused on predictive modeling for mining exploration projects at Kobold Metals.
+  </div>
+</div>
 
 <div class="team-member">
   <img src="../images/chris_photo_4.png" alt="Christopher Ren, PhD" class="profile-pic">
@@ -51,14 +50,7 @@ We are a team of dedicated professionals passionate about leveraging technology 
   </div>
 </div>
 
-<div class="team-member">
-  <img src="../images/alice_photo.jpg" alt="Alice Durieux, PhD" class="profile-pic">
-  <div class="bio-content">
-    <strong>Alice Durieux, PhD</strong><br>
-    <em>Co-founder</em><br>
-    Alice brings over a decade of experience as a data scientist across diverse industries. She holds a PhD in Neuroscience from King's College London (KCL). Her notable achievements include the development of an end-to-end supply chain analytics solution for deforestation monitoring at Descartes Labs. Most recently she has focused on predictive modeling for mining exploration projects at Kobold Metals.
-  </div>
-</div>
+
 
 
 ### Contact Us

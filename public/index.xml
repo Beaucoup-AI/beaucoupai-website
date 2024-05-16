@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Beaucoup AI on BeaucoupAI</title>
+    <title>Beaucoup AI</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Beaucoup AI on BeaucoupAI</description>
+    <description>Recent content on Beaucoup AI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Us</title>
-      <link>http://localhost:1313/about/</link>
+      <title>Team</title>
+      <link>http://localhost:1313/team/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>About BeaucoupAI BeaucoupAI is a boutique data science company specializing in the creation of unique signals across the commodity markets using artificial intelligence. Our team has deep expertise in the fields of quantitative financial modeling, geospatial intelligence, and machine learning.&#xA;Our Mission Our mission is to accelerate and enhance your commodity intelligence workflows, providing actionable insights that drive better decision-making and improved outcomes.&#xA;Our Team We are a team of dedicated professionals passionate about leveraging technology to solve complex problems in the commodity markets.</description>
+      <guid>http://localhost:1313/team/</guid>
+      <description>The Beaucoup AI Team We are a team of dedicated professionals passionate about leveraging technology to solve complex problems in the commodity markets.&#xA;Alice Durieux, PhD&#xA;Co-founder&#xA;Alice brings over a decade of experience as a data scientist across diverse industries. She holds a PhD in Neuroscience from King&#39;s College London (KCL). Her notable achievements include the development of an end-to-end supply chain analytics solution for deforestation monitoring at Descartes Labs.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/case_studies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/case_studies/</guid>
+      <description>Coming soon! </description>
     </item>
   </channel>
 </rss>

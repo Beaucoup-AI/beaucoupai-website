@@ -1,10 +1,10 @@
 baseURL = "https://www.beaucoupai.com/"
 languageCode = "en-us"
-title = "BeaucoupAI"
+title = "Beaucoup AI"
 theme = "ananke"
 
 [params]
-  author = "BeaucoupAI Team"
+  author = "Beaucoup AI Team"
   description = "AI solutions for your business"
 
 [markup]
@@ -19,11 +19,11 @@ theme = "ananke"
     weight = 1
 
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Team"
+    url = "/team/"
     weight = 2
 
   [[menu.main]]
-    name = "Portfolio"
-    url = "/portfolio/"
+    name = "Case Studies"
+    url = "/case_studies/"
     weight = 3
