@@ -4,7 +4,7 @@ description: "Modern intelligence for food security and commodity markets"
 date: 2024-05-15T00:00:00Z
 draft: false
 cascade:
-    featured_image: '/images/crop_mask.png'
+    featured_image: 'crop_mask.png'
 ---
 
 Unique signals for decision making in food security, trading and geospatial intelligence. 
@@ -16,7 +16,7 @@ BeaucoupAI is a boutique data science company specializing in the creation of un
 
 Our team has deep expertise in the fields of quantitative financial modeling, geospatial intelligence, and machine learning.
 
-### Our Mission
+## Our Mission
 
 Our mission is to accelerate and enhance your commodity intelligence workflows, providing actionable insights that drive better decision-making and improved outcomes across all aspects of the commodity supply chain: from increasing sustainability to identifying opportunity.
 
