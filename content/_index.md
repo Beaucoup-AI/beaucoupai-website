@@ -4,7 +4,7 @@ description: "Modern intelligence for food security and commodity markets"
 date: 2024-05-15T00:00:00Z
 draft: false
 cascade:
-    featured_image: 'images/crop_mask.png'
+    featured_image: '/images/crop_mask.png'
 ---
 
 Unique signals for decision making in food security, trading and geospatial intelligence. 
