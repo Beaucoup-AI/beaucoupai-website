@@ -1,0 +1,17 @@
+.team-member {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;  /* Adds space between team member entries */
+  }
+  
+  .profile-pic {
+    width: 150px;        /* Adjust size as needed */
+    height: 150px;       /* Adjust size as needed */
+    border-radius: 50%;  /* Creates the circular effect */
+    margin-right: 20px;  /* Adds space between the image and the text */
+  }
+  
+  .bio-content {
+    flex: 1;
+  }
+  

@@ -1,0 +1,5 @@
+.team-photo {
+    width: 10%;
+    max-width: 10px; /* Controls the max size */
+    height: auto;
+}

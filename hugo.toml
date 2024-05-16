@@ -1,0 +1,29 @@
+baseURL = "https://www.beaucoupai.com/"
+languageCode = "en-us"
+title = "BeaucoupAI"
+theme = "ananke"
+
+[params]
+  author = "BeaucoupAI Team"
+  description = "AI solutions for your business"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # allows HTML in Markdown files
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Portfolio"
+    url = "/portfolio/"
+    weight = 3
