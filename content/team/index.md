@@ -24,7 +24,7 @@ draft: false
 We are a team of dedicated professionals passionate about leveraging technology to solve complex problems in the commodity markets.
 
 <div class="team-member">
-  <img src="../images/alice_photo.jpg" alt="Alice Durieux, PhD" class="profile-pic">
+  <img src="/images/alice_photo.jpg" alt="Alice Durieux, PhD" class="profile-pic">
   <div class="bio-content">
     <strong>Dr. Alice Durieux, BSc, MPhil, PhD</strong><br>
     <em>Co-founder</em><br>
@@ -33,7 +33,7 @@ We are a team of dedicated professionals passionate about leveraging technology 
 </div>
 
 <div class="team-member">
-  <img src="../images/chris_photo_4.png" alt="Christopher Ren, PhD" class="profile-pic">
+  <img src="/images/chris_photo_4.png" alt="Christopher Ren, PhD" class="profile-pic">
   <div class="bio-content">
     <strong>Dr. Christopher Ren, MPhys, MRes, PhD</strong><br>
     <em>Co-founder</em><br>
@@ -42,7 +42,7 @@ We are a team of dedicated professionals passionate about leveraging technology 
 </div>
 
 <div class="team-member">
-  <img src="../images/tom_photo.jpeg" alt="Tom Meyler" class="profile-pic">
+  <img src="/images/tom_photo.jpeg" alt="Tom Meyler" class="profile-pic">
   <div class="bio-content">
     <strong>Tom Meyler</strong><br>
     <em>Co-founder</em><br>
